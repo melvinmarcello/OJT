@@ -1,0 +1,79 @@
+.nav-item {
+  color: white;
+  transition: 0.8s;
+}
+
+.nav-item:hover li {
+  border-bottom: 4px solid blue;
+}
+
+.jumbotron {
+  background-image: url(./Gedung_UPNVJ.jpg);
+  background-size: cover;
+  max-width: 100%;
+  height: 100vh;
+  background-position: center;
+}
+
+#projects {
+  padding-top: 15px;
+}
+.card {
+  border: 0.5px solid black;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  background-color: rgb(255, 247, 162);
+}
+
+.bi {
+  color: red;
+}
+.bi-instagram,
+.bi-bezier2,
+.bi-twitter,
+.bi-github {
+  color: white;
+}
+.bi-badge-vr-fill,
+.bi-battery-charging,
+.bi-book {
+  color: black;
+}
+footer {
+  background-color: #273036;
+  color: white;
+}
+
+.t {
+  margin-top: 70px;
+}
+
+.navbar-shrink {
+  background-color: aliceblue;
+}
+
+.card-header {
+  font-size: 50px;
+}
+
+h2 {
+  color: blue;
+}
+#projects hr {
+  width: 250px;
+  border-top: 3px solid black;
+}
+
+#home,
+#projects,
+#partner,
+#news {
+  padding-top: 50px;
+}
+.line {
+  width: 200px;
+  border-top: 3px solid black;
+}
+section {
+  margin-bottom: 50px;
+}
